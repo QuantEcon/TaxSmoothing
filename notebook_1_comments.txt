@@ -1,0 +1,19 @@
+##### To does  AND ALREADY DONES
+
+  * First use the "optimal linear control class"  from quant-econ to setup and formulate a couple of very simple instances of the Barro (1979) model.  (Seb could also use your DLE class to do this -- by tricking it;  **first** do the permanent income, then just mention the isomorphism.  
+
+  * insert code for the Markov LQ class with some words in Markdown flagging what "methods" it returns -- put this in appropriate place here.
+  
+  * do a very simple example -- e.g., simplest Barro (1979) model, but make the interest be a two-state Markov.  $E (p^t_{t+1} ) =\beta$.  But let's tamper with what $E p^t_{t+1}$ is. 
+  
+  
+  * TOM NOTE, NOV 1. EVERYTHING ABOVE HAS BEEN DONE VERY WELL BY SEB.  TOM CAN DO THE NEXT ONE (THE "FANCIER G PROCESSES"). SEB SHOULD DO THE TWO "REAL THINGS" IN A FOLLOWUP SEPARATE NOTEBOOK BUILDING ON THIS ONE.
+  
+  * caveat -- TJS might suggest a couple of fancy g processes -- mixture of permanent and transitory shocks -- do this for both of the above.  
+  
+  * Do the two "real things" one allows no rescheduling (Barro) , the other allows it. 
+  
+  * Reverse the isomorphism -- state the permanent income version
+  
+  * For TJS -- link to the "Black Litterman model" problem.
+  

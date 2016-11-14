@@ -1,5 +1,4 @@
 """
-Filename: LQ_Markov_Code.py
 
 Author: Sebastian Graves
 
