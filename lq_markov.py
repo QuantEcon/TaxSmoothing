@@ -43,7 +43,7 @@ class LQ_Markov(object):
         
         # If W matrix is not given in some state of the world, insert a matrix of zeros
         for i in range(1,len(args)+1):
-            if self.W[i] == None:
+            if self.W[i] is None:
                 self.W[i] = np.zeros((self.nu,self.nx))
         
         # Create the P matrices, initialize as identity matrix
